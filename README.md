@@ -1,13 +1,13 @@
-+ # 🏛️ Keikan Working Group
-+ ## 🧭 Overview
+ # 🏛️ Keikan Working Group
+ ## 🧭 Overview
 + The Keikan Knowledge Hub Group ensures that all Techinal and non-technical artifact (backend integrations, developer platforms, and cloud services) supporting Yoonka services.
-+
+
 + > **Group Owner:** Zack Audu  
 + > **Slack Channel:** `#wg-keikan`  
 + > **Meeting time:** `Thursday 10:30 GMT+0`
-+
-+ ---
-+
+
+ +---
+
 ## 👥 Team Members
 +
 | Role | Name |
@@ -18,14 +18,14 @@
 | **Backend Engineer** | Edwin | Jim Aloo Juma |
 | **Quality Assurance** | Vladimir |
 | **Business Analyst** | Paul |
-+
+
 + ---
-+ 
+  
 + ## 🎯 Purpose
 + To establish and maintain a centralized, unified knowledge base storing all Yoonka Group's technical specifications, Social Media, project documentation, design assets, and organizational guides.
-+
+
 + ---
-+ 
+  
 + ## 🏆 Goals
 + - Centralized Access: Ensure 100% of all critical technical and non-technical documentation is accessible via the Keikan platform to support internal teams. 
 + - Structured Documentation: Define and enforce clear documentation standards for all knowledge artifacts (Articles, Guides, Design assets) to maximize utility and searchability. 
