@@ -1,5 +1,4 @@
 + # 🏛️ Keikan Working Group
-+ 
 + ## 🧭 Overview
 + The Keikan Knowledge Hub Group ensures that all Techinal and non-technical artifact (backend integrations, developer platforms, and cloud services) supporting Yoonka services.
 +
